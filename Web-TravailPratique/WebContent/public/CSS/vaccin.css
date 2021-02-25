@@ -1,0 +1,59 @@
+#carouselExemple{
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 120px;
+	height: 215px;
+}
+.carousel-item img{
+	width: 100%;
+	height: auto;
+	margin-bottom: 125px;
+}
+.carousel-inner{
+	position: relative;
+	float: left;
+}
+#UQAM{
+	display: block;
+	height: 25%;
+	width: 35%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+label, input {
+	margin: 0px 0px 0px 0px;
+	width: 65%;
+}
+
+#nom-complet {
+	margin-bottom: 0px;
+	margin-left: 10px;
+}	
+textarea{
+	width: 75%;
+}
+#submit{
+    width: 25%;
+}
+#myForm{
+	background-color: #b3b3b3;
+	
+	width: 75%;
+	left: 15%;
+}
+#developpement{
+	text-align: center;
+}
+aside {
+	background-color: lightgray;
+	font-style: italic;
+	border-radius: 5px;
+	border-style: outset;
+	width: 85%;
+	float: left;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	padding-left: 15px;
+}

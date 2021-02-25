@@ -1,0 +1,28 @@
+p{
+	margin-bottom: 0px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#UQAM-lien{
+	text-decoration: underline;
+	color: blue;
+}
+
+#INF3190{
+	text-decoration: underline;
+	color: blue;
+}
+#author{
+	position: absolute;
+	top: 110%;
+	left: 30%;
+	color: whitesmoke;
+}
+#code_permanent{
+	position: absolute;
+	top: 115%;
+	left: 30%;
+	color: whitesmoke;
+}

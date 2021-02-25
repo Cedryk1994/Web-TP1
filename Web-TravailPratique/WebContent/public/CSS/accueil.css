@@ -1,0 +1,41 @@
+.covid-19_text{
+	font-size: 14px;
+	background-color: whitesmoke;
+	width: 90%;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	border-style: outset;
+}
+h5{
+	font-size: 16px;
+}
+aside {
+	width: 45%;
+	padding-left: 15px;
+	float: left;
+	font-style: italic;
+	border-radius: 5px;
+	background-color: lightgray;
+	border-style: outset;
+	margin-bottom: 5px;
+}
+iframe{
+	position: absolute;
+	left: 48%;
+	top: 325px;
+	height: 250px;
+	width: 50%;
+}
+#developpement{
+	position: absolute;
+	left: 48%;
+	top: 580px;
+	width: 50%;
+}
+#image-UQAM{
+	position: absolute;
+	left: 55%;
+	top: 600px;
+	width: 55%;
+}
